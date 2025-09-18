@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qRAsBZj/NvbmyvQiorRiNRtUuYoGQO92fcqIlxsZVUg=",
+  "Source": "PatientConsultationAPI",
+  "BasePath": "_content/PatientConsultationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
