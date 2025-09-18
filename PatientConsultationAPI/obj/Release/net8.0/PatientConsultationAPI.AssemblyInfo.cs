@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatientConsultationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c96df463897ccb2860d9c8cd96858e29bead5d58")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatientConsultationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatientConsultationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
